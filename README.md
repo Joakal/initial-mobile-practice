@@ -1,24 +1,5 @@
 # my-project
 
-## Project setup
-```
-yarn install
-```
+The app is a tinder-like swipe action proof of concept.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a demonstration of setting up a quick proof of concept by utilising VueJS and Capacitor.
